@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport country="Portugal" city="Cascais" name="Cascais" ident="LPCS" lat="38.72354649462162" lon="-9.35465726382666" alt="84.37578873429447" magvar="-4.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiName index="0" name=""/>
+		<Runway lat="38.72425526059273" lon="-9.35489295461155" alt="92.09615154564381" heading="-15.88533496856689" length="1209.39440917968750" width="30.00000000000000" patternAltitude="304.79998779296875" surface="{DEA6E239-1C2B-4A58-AE41-89E07FE6E69E}" transparent="TRUE" number="35" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="RIGHT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Coloration red="124" green="124" blue="124" alpha="255" override="TRUE"/>
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="TRUE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<Vasi end="PRIMARY" side="LEFT" type="PAPI2" biasX="27.395399" biasZ="436.449585" spacing="50.000000" pitch="3.000000"/>
+			<Vasi end="PRIMARY" side="RIGHT" type="PAPI2" biasX="27.282181" biasZ="447.246765" spacing="90.000000" pitch="3.000000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="PAPI2" biasX="26.367331" biasZ="469.923889" spacing="90.000000" pitch="4.000000"/>
+			<Vasi end="SECONDARY" side="RIGHT" type="PAPI2" biasX="26.718092" biasZ="465.265289" spacing="90.000000" pitch="4.000000"/>
+			<RunwayStart end="PRIMARY" lat="38.71880209969635" lon="-9.35237134339933" alt="92.14604536257684" heading="166.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="38.72654778751829" lon="-9.35520631270205" alt="92.09236600715667" heading="342.00000000000000"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="FALSE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
+	</Airport>
+</FSData>
+
