@@ -1,5 +1,11 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<SceneryObject lat="38.72604323338288" lon="-9.35663132374920" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" instanceId="{2B3FD518-EAE3-4DEA-9F5D-F62D850C6C5D}" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="5.000000" sockLength="4.000000" lighted="TRUE"/>
+	</SceneryObject>
+	<SceneryObject lat="38.72687930109191" lon="-9.35500503772018" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
+	</SceneryObject>
 	<Airport country="Portugal" city="Cascais" name="Cascais" ident="LPCS" lat="38.72354649462162" lon="-9.35465726382666" alt="84.37578873429447" magvar="-4.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiName index="0" name=""/>
 		<Runway lat="38.72425526059273" lon="-9.35489295461155" alt="92.09615154564381" heading="-15.88533496856689" length="1209.39440917968750" width="30.00000000000000" patternAltitude="304.79998779296875" surface="{DEA6E239-1C2B-4A58-AE41-89E07FE6E69E}" transparent="TRUE" number="35" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="RIGHT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
