@@ -1,0 +1,8 @@
+<Project Version="2" Name="LPCS2021" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\airport-lpcs-cascais.xml</Package>
+	</Packages>
+</Project>
+
